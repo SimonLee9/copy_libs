@@ -1,0 +1,11 @@
+Signal (2) received.
+./SLAMNAV2(+0x12ab1c) [0x5ef9beed5b1c]
+libc.so.6(+0x42520) [0x7b7d2a442520]
+libc.so.6(+0x91115) [0x7b7d2a491115]
+libc.so.6(+0x96624) [0x7b7d2a496624]
+libstdc++.so.6(_ZNSt6thread4joinEv+0x17) [0x7b7d2a8dc2c7]
+./SLAMNAV2(+0xd75eb) [0x5ef9bee825eb]
+./SLAMNAV2(+0x1420b2) [0x5ef9beeed0b2]
+./SLAMNAV2(+0x5eede) [0x5ef9bee09ede]
+libc.so.6(+0x29d90) [0x7b7d2a429d90]
+libc.so.6(__libc_start_main+0x80) [0x7b7d2a429e40]
